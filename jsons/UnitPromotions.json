@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Hovering",
+        "uniques": [
+			"Can pass through impassable tiles",
+            "May travel on Water tiles without embarking",
+			"Eliminates combat penalty for attacking across a coast",
+			"Eliminates combat penalty for attacking over a river",
+			"[-50]% Strength <when fighting in [Water] tiles>"
+        ],
+        "unitTypes": ["Helicopter"]
+    }
+]
